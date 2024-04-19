@@ -4,7 +4,7 @@
     "start_url": ".",
     "display": "standalone",
     "theme_color":"purple",
-    "background_color": "#fff",
+    "background_color": "purple",
     "description": "hello welcome to my github.",
     "icons": [
       {
