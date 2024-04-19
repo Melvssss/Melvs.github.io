@@ -3,6 +3,7 @@
     "short_name": "Melvin",
     "start_url": ".",
     "display": "standalone",
+    "theme_color":"purple",
     "background_color": "#fff",
     "description": "hello welcome to my github.",
     "icons": [
