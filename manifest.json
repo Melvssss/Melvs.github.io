@@ -6,6 +6,7 @@
     "theme_color":"purple",
     "background_color": "purple",
     "description": "hello welcome to my github.",
+    "serviceworker": "serviceworker.js",
     "icons": [
       {
         "src": "images/icon-192.png",
